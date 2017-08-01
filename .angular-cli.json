@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "nationwide-project"
+    "name": "internship-project"
   },
   "apps": [
     {
@@ -23,18 +23,6 @@
         
       ],
       "scripts": [
-         
-        
-         "ui-framework-1.1.2/js/jquery.js",
-         "ui-framework-1.1.2/js/bootstrap.js",
-         "ui-framework-1.1.2/js/moment.js",
-         "ui-framework-1.1.2/js/bootstrap-datetimepicker.js",
-         "ui-framework-1.1.2/js/jquery.tablesorter.js",
-         "ui-framework-1.1.2/js/jquery-spin.js",
-         "ui-framework-1.1.2/js/bootstrap-multiselect.js",
-         "ui-framework-1.1.2/js/typeahead.bundle.js",
-         "ui-framework-1.1.2/js/jquery-mask.js",
-         "ui-framework-1.1.2/js/bootstrap-custom.js"
 
       ],
       "environmentSource": "environments/environment.ts",
